@@ -20,4 +20,11 @@ Du tar kontroll över tomten och följer de isiga vägarna efter paket-tjuven Kr
 ### ɧaŋer
 
 Fast-paste, movememnt-based, platformer.
-Liknande movement till [Re:RUN](https://danidev.itch.io/rerun) 
+Liknande movement till [Re:RUN](https://danidev.itch.io/rerun) fast med hal is på marken.
+Isiga vägar i ett snörike.
+
+### Platform
+
+Unity.
+
+
